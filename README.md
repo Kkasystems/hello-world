@@ -1,2 +1,2 @@
 # hello-world
-I am new to programing and this will be my first repository of data
+I am new to programming and this will be my first repository of data
